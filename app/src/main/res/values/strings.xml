@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="main_menue_button_editor">editor</string>
+    <string name="main_menu_button_play">play</string>
+
+    <string name="editor_menu_button_new">new</string>
+    <string name="editor_menu_card_game_name">game</string>
+    <string name="editor_menu_card_button_edit_text">edit</string>
+    <string name="editor_menu_card_button_publish_text">publish</string>
+    <string name="editor_menu_card_button_delete_text">delete</string>
+    <string name="editor_menu_dialog_project_name_hint">project name</string>
+
+    <string name="play_menu_card_game_name">game</string>
+    <string name="play_menu_card_button_play_text">play</string>
+    <string name="play_menu_card_button_delete_text">delete</string>
+
+</resources>
