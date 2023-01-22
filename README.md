@@ -1,2 +1,1 @@
-GeoQuiz 
-Editor und Spielumgebung für das Geländespiel Schnitzeljagt
+GeoQuiz: Editor und Spielumgebung für das Geländespiel Schnitzeljagt
